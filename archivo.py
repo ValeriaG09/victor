@@ -31,4 +31,22 @@ for archivo in archivos_xlsx:
     lista_dataframes.append(df)
     print(f"Archivo {archivo} - {len(df)} filas leido correctamente")
 
+
+df_consolidado = pd.concat(lista_dataframes,ignore_index=True)
+df_consolidado.to_excel("consolidado_desordenado.xlsx",index = False)
+
+
+for i, df in enumerate(lista_dataframes):
+    if 'Fecha_Venta' in df.columns:
+        lista_dataframes[i] = df.rename(columns={
+            'Fecha_Venta': 'fecha',
+            'Producto': 'producto',
+            'Categoria': 'categoria',
+            'Cant': 'cantidad',
+            'Valor_Unitario': 'precio_unitario',
+            'Vendedor': 'vendedor',
+            'Pago': 'metodo_pago'
+        })
+        
+print(lista_dataframes [i])
 #2.Guardar en una lista 
