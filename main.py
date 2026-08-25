@@ -1,9 +1,10 @@
 import pandas as pd
 import glob 
+# pyrefly: ignore [missing-import]
 import matplotlib.pyplot as plt
 
 #1.Buscar datos y leer archivos
-## df = dataframe
+## df = dataframev
 
 df_medellin = pd.read_csv('datos/sucursal_medellin.csv')
 #print(df_medellin)
