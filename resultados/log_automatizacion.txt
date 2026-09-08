@@ -1,0 +1,30 @@
+============================================================
+RESUMEN EJECUTIVO - BOT DE VENTAS
+Proceso ejecutado                  : 2026-09-08 11:23:59.845344
+Archivo(s) detectado(s)            : {'sucursal_medellin_reporte2.csv'}
+Total de registros procesados      : 73
+Total de ventas consolidadas       : $6,846,600.00 COP
+Producto más vendido               : Jean clasico (13 transacciones)
+Promedio de venta por transacción  : $97,808.57 COP
+============================================================
+
+============================================================
+RESUMEN EJECUTIVO - BOT DE VENTAS
+Proceso ejecutado                  : 2026-09-08 11:24:42.875202
+Archivo(s) detectado(s)            : {'sucursal_cali_reporte2.csv'}
+Total de registros procesados      : 83
+Total de ventas consolidadas       : $7,835,600.00 COP
+Producto más vendido               : Jean clasico (15 transacciones)
+Promedio de venta por transacción  : $97,945.00 COP
+============================================================
+
+============================================================
+RESUMEN EJECUTIVO - BOT DE VENTAS
+Proceso ejecutado                  : 2026-09-08 11:25:13.677529
+Archivo(s) detectado(s)            : {'sucursal_cartagena_reporte2.csv'}
+Total de registros procesados      : 91
+Total de ventas consolidadas       : $8,705,600.00 COP
+Producto más vendido               : Jean clasico (16 transacciones)
+Promedio de venta por transacción  : $98,927.27 COP
+============================================================
+

@@ -18,8 +18,8 @@ if sys.platform.startswith('win'):
     except Exception:
         pass
 
-# Directorio de datos (soporta datos/ o data/)
-ruta_datos = "datos/" if os.path.exists("datos") else "data/"
+# Directorio de datos (soporta data/ o datos/)
+ruta_datos = "data/" if os.path.exists("data") else "datos/"
 archivos_vistos = set(os.listdir(ruta_datos))
 
 

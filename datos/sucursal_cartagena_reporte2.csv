@@ -1,0 +1,9 @@
+fecha,producto,categoria,cantidad,precio_unitario,vendedor,metodo_pago
+2026-08-02,Gorra deportiva,Ropa,10,70000.0,Mateo Castro,Efectivo
+2026-08-04,Parlante portatil,Electronica,5,135000.0,Valeria Morales,Tarjeta
+2026-08-07,Camiseta basica,Ropa,8,55000.0,Mateo Castro,Efectivo
+2026-08-09,Jean clasico,Ropa,6,120000.0,Valeria Morales,Transferencia
+2026-08-12,Cargador USB-C,Electronica,7,45000.0,Daniel Ospina,Tarjeta
+2026-08-14,Audifonos Bluetooth,Electronica,4,165000.0,Daniel Ospina,Efectivo
+2026-08-17,Chaqueta impermeable,Ropa,3,155000.0,Valeria Morales,Tarjeta
+2026-08-21,Mouse inalambrico,Electronica,5,125000.0,Mateo Castro,Transferencia
